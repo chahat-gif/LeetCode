@@ -8,6 +8,7 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 | ------- |
 | [0162-find-peak-element](https://github.com/chahat-gif/LeetCode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/chahat-gif/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1207-unique-number-of-occurrences](https://github.com/chahat-gif/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,6 +22,7 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chahat-gif/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/chahat-gif/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
