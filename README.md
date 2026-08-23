@@ -32,11 +32,13 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chahat-gif/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/chahat-gif/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chahat-gif/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/chahat-gif/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/chahat-gif/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +51,8 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/chahat-gif/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/chahat-gif/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
