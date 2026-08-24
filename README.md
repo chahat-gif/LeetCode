@@ -35,6 +35,7 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chahat-gif/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chahat-gif/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/chahat-gif/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chahat-gif/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/chahat-gif/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -50,6 +51,7 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chahat-gif/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chahat-gif/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -63,4 +65,20 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 |  |
 | ------- |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/chahat-gif/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chahat-gif/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chahat-gif/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chahat-gif/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chahat-gif/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
