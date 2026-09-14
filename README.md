@@ -8,6 +8,7 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 | ------- |
 | [0162-find-peak-element](https://github.com/chahat-gif/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/chahat-gif/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/chahat-gif/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chahat-gif/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/chahat-gif/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/chahat-gif/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -61,6 +62,7 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/chahat-gif/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/chahat-gif/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Math
 |  |
 | ------- |
