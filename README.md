@@ -94,4 +94,12 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/chahat-gif/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/chahat-gif/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/chahat-gif/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
