@@ -35,6 +35,7 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 | [0003-longest-substring-without-repeating-characters](https://github.com/chahat-gif/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/chahat-gif/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/chahat-gif/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/chahat-gif/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/chahat-gif/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chahat-gif/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/chahat-gif/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -61,6 +62,7 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chahat-gif/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/chahat-gif/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/chahat-gif/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chahat-gif/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -101,6 +103,7 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chahat-gif/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/chahat-gif/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/chahat-gif/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/chahat-gif/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/chahat-gif/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -113,4 +116,5 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/chahat-gif/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/chahat-gif/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
