@@ -61,6 +61,7 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chahat-gif/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/chahat-gif/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/chahat-gif/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chahat-gif/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chahat-gif/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -102,6 +103,7 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chahat-gif/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/chahat-gif/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/chahat-gif/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chahat-gif/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/chahat-gif/LeetCode/tree/master/0203-remove-linked-list-elements) |
