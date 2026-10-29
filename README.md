@@ -60,6 +60,7 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/chahat-gif/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chahat-gif/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/chahat-gif/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/chahat-gif/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -102,6 +103,7 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/chahat-gif/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/chahat-gif/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/chahat-gif/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/chahat-gif/LeetCode/tree/master/0141-linked-list-cycle) |
