@@ -17,8 +17,8 @@ public:
         }
         ListNode* temp1=head;
         ListNode* temp2=head;
-        ListNode* dummy = new ListNode();
-        dummy->next=head;
+        ListNode dummy;
+        dummy.next = head;        
         int count=0;
         while(temp1->next!=nullptr)
         {
@@ -28,8 +28,8 @@ public:
         count++;
         if(count==n)
         {
-            dummy->next=head->next;
-            return dummy->next;
+            dummy.next=head->next;
+            return dummy.next;
         }
         int k = count-n-1;
         int i=0;
@@ -39,6 +39,6 @@ public:
             i++;
         }
         temp2->next=temp2->next->next;
-        return dummy->next;
+        return dummy.next;
     }
 };
