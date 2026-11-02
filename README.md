@@ -111,6 +111,7 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 | [0142-linked-list-cycle-ii](https://github.com/chahat-gif/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/chahat-gif/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/chahat-gif/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/chahat-gif/LeetCode/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
