@@ -106,6 +106,7 @@ My Data Structures and Algorithms journey using C++ on LeetCode.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chahat-gif/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/chahat-gif/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/chahat-gif/LeetCode/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/chahat-gif/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/chahat-gif/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chahat-gif/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/chahat-gif/LeetCode/tree/master/0203-remove-linked-list-elements) |
